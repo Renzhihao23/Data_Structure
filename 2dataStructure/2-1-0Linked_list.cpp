@@ -1,8 +1,6 @@
-
 // Linked List:Delete a node at nth position
 #include<iostream>
 using namespace std;
-
 struct Node
 {
     int data;
@@ -10,6 +8,7 @@ struct Node
 
 };
 Node *head;
+
 void Insert(int x)
 {
     Node *temp = new Node(); // 结构体指针（节点）变成了一个结构体指针变量
@@ -20,6 +19,7 @@ void Insert(int x)
     //    temp->next = head;
     head = temp;
 }
+
 void Print()
 {
     Node *temp = head;
