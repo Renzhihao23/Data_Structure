@@ -37,7 +37,8 @@ void Print()
     cout << endl;
 }
 int main(void)
-{
+{ 
+    
     Push(2);Print();
     Push(3);Print();
     Push(4);Print();
