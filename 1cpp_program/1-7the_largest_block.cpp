@@ -16,7 +16,6 @@ int main(void)
             }
             
         }
-        
         if (Maxsum<sum)
         {
             Maxsum = sum;
