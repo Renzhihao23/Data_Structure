@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//factorial algorithm
+//factorial algorithm 阶乘算法
 double fact(double i)
 {
     if (i == 1)
