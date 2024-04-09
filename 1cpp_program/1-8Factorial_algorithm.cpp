@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//factorial algorithm 阶乘算法
+//factorial algorithm 阶乘算法 求e的值，e=1+1/1!+1/2!+1/3!+1/4!+.....最后一项小于1e-6.
 double fact(double i)
 {
     if (i == 1)

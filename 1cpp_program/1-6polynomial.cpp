@@ -1,4 +1,4 @@
-
+//求多项式：1 – 1/2 + 1/3 – 1/4 + … + 1/99 – 1/100 的值。
 #include<iostream>
 #include<cmath>
 using namespace std;

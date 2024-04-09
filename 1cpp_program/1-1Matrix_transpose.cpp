@@ -1,3 +1,4 @@
+//输入一个 n 行 m 列的矩阵 A，输出它的转置 A^T。
 #include<iostream>
 using namespace std;
 #define n 4

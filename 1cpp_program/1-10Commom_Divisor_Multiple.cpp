@@ -1,4 +1,4 @@
-//Greatest Common Divisor and Least Common Multiple
+//Greatest Common Divisor and Least Common Multiple 输入m与n两个整数，计算m与n的绝对值的最大公约数及最小公倍数。
 #include<iostream>
 using namespace std;
 

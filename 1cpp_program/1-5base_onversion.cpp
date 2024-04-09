@@ -1,3 +1,4 @@
+//用递归算法将一个十进制数 X 转换成任意进制数 M。
 #include<iostream>
 using namespace std;
 	string c="0123456789ABCDEF";

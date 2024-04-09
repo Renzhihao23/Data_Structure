@@ -1,3 +1,4 @@
+//输入一个年份判断是否是闰年。
 #include <iostream>
 using namespace std;
 int main() {
