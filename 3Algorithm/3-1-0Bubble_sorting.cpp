@@ -5,8 +5,8 @@ void bubble_sort(int *ary, int size){  //int *ary = array 等同于 int* ary = &
     for (int i = 0; i < size-1; i++){
         for (int j = 0; j < size-i-1; j++){
             if (ary[j] < ary[j+1]){
-                //change of position
-                int temp = ary[j];
+                //change of position    // Address --- &A[i] or (A + i)
+                int temp = ary[j];      // value   --- A[i] or *(A + i)
                 ary[j] = ary[j+1];
                 ary[j+1] = temp;
             }  
