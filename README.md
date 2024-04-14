@@ -6,3 +6,4 @@
         2-2-x is Stack
         2-3-x is Queues
         2-4-x is Tree
+        2-5-x is Graph
